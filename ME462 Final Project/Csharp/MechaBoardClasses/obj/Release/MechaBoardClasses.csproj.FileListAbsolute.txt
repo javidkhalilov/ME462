@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\MechaBoardClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\MechaBoardClasses\bin\Release\MechaBoardClasses.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\MechaBoardClasses\bin\Release\MechaBoardClasses.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\MechaBoardClasses\obj\Release\MechaBoardClasses.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\MechaBoardClasses\obj\Release\MechaBoardClasses.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\bin\Release\MechaBoardClasses.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\bin\Release\MechaBoardClasses.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\bin\Release\USBLibrary.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\bin\Release\USBLibrary.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\obj\Release\MechaBoardClasses.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\MechaBoardClasses\obj\Release\MechaBoardClasses.pdb
