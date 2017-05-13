@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\USBLibrary\bin\Release\USBLibrary.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\USBLibrary\bin\Release\USBLibrary.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\USBLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\USBLibrary\obj\Release\USBLibrary.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\PIC\USB_Communication\MechaBoard USB\USBLibrary\obj\Release\USBLibrary.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\USBLibrary\bin\Release\USBLibrary.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\USBLibrary\bin\Release\USBLibrary.pdb
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\USBLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\USBLibrary\obj\Release\USBLibrary.dll
+C:\Documents and Settings\Kaan Ozdokmeci\Desktop\FinalProject\USBLibrary\obj\Release\USBLibrary.pdb
