@@ -1,0 +1,45 @@
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Form1.resources
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Properties.Resources.resources
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.exe
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.pdb
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.dll
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Imaging.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.exe
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.pdb
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.exe
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.pdb
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.exe
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.pdb
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.dll
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Imaging.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.xml
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Form1.resources
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Properties.Resources.resources
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yigit\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.exe
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME 462 Final Project.pdb
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.exe
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\ME 462 Final Project.pdb
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.dll
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.xml
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Imaging.xml
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.xml
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\bin\Debug\AForge.Math.xml
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Form1.resources
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\ME_462_Final_Project.Properties.Resources.resources
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cavid\Desktop\ME 462 Final Project\ME 462 Final Project\obj\x86\Debug\GenerateResource.write.1.tlog
